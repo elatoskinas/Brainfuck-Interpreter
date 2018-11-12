@@ -1,7 +1,6 @@
 # ******************************************************************
 # * Program name: brainfuck                                        *
-# * Name: Evaldas Latoskinas                                       *
-# * NetID: elatoskinas                                             *
+# * Author: Evaldas Latoskinas                                     *
 # ******************************************************************
 
 # ASSEMBLY DIRECTIVES
